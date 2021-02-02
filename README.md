@@ -1,6 +1,6 @@
 # Independent Chip Model (ICM) Calculator
 
-<p>For those of you that need an Independent Chip Model (ICM) implementation (mine is written in Java) look no further. The code is documented with comments that I hope will explain who it works.</p>
+<p>For those of you that need an Independent Chip Model (ICM) implementation (mine is written in Java) look no further. The code is documented with comments that I hope will explain how it works.</p>
 
 <p>Read on to learn more...</p>
 
