@@ -1,5 +1,8 @@
-<p>So for those of you that need an Independent Chip Model (ICM) implementation (mine is written in Java) look no further. The code is documented with comments that I hope will explain who it works.</p>
+# Independent Chip Model (ICM) Calculator
 
+<p>For those of you that need an Independent Chip Model (ICM) implementation (mine is written in Java) look no further. The code is documented with comments that I hope will explain who it works.</p>
+
+<p>Read on to learn more...</p>
 
 <p>Sometimes the players in a poker tournament will chop the pot instead of playing to end where one player takes first place. This repository is an implementation of the ICM algorithm to determine how to chop a pot.</p>
 
